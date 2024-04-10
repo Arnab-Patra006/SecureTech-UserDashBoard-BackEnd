@@ -1,0 +1,250 @@
+{
+    "username":"Arnab Patra",
+    "password":"1234"
+}
+User ------->
+{
+    "username":"Shivam",
+    "password":"shivam"
+}
+---------------------------------------------------------------------
+1.
+{
+    "username": "atuny0",
+    "password": "9uQFF1Lh",
+    "email": "atuny0@sohu.com",
+    "role":"USER"
+}
+
+
+----------------------------------------------------------------------
+
+2.
+{
+    "username": "hbingley1",
+    "email": "hbingley1@plala.or.jp",
+    "password": "CQutx25i8r",
+    "role":"USER"
+}
+3.
+{
+    "username": "rshawe2",
+    "email": "rshawe2@51.la",
+    "password": "OWsTbMUgFc",
+    "role":"USER"
+}
+
+4.
+{
+    "username": "yraigatt3",
+    "email": "yraigatt3@nature.com",
+    "password": "sRQxjPfdS",
+    "role":"USER"
+}
+
+5.
+{
+    "username": "kmeus4",
+    "email": "kmeus4@upenn.edu",
+    "password": "aUTdmmmbH",
+    "role":"USER"
+}
+
+6.
+{
+    "username": "jtreleven5",
+    "email": "jtreleven5@nhs.uk",
+    "password": "zY1nE46Zm",
+    "role":"USER"
+}
+
+7.
+{
+    "username": "dpettegre6",
+    "email": "dpettegre6@columbia.edu",
+    "password": "YVmhktgYVS",
+    "role":"USER"
+}
+
+8.
+{
+    "username": "ggude7",
+    "email": "ggude7@chron.com",
+    "password": "MWwlaeWcOoF6",
+    "role":"USER"
+}
+
+9.
+{
+    "username": "nloiterton8",
+    "email": "nloiterton8@aol.com",
+    "password": "HTQxxXV9Bq4",
+    "role":"USER"
+}
+
+10.
+{
+    "username": "umcgourty9",
+    "email": "umcgourty9@jalbum.net",
+    "password": "i0xzpX",
+    "role":"USER"
+}
+
+11.
+{
+    "username": "acharlota",
+    "email": "acharlota@liveinternet.ru",
+    "password": "M9lbMdydMN",
+    "role":"USER"
+}
+
+12.
+{
+    "username": "rhallawellb",
+    "email": "rhallawellb@dropbox.com",
+    "password": "esTkitT1r",
+    "role":"USER"
+}
+
+13.
+{
+    "username": "lgribbinc",
+    "email": "lgribbinc@posterous.com",
+    "password": "ftGj8LZTtv9g",
+    "role":"USER"
+}
+
+14
+{
+    "username": "mturleyd",
+    "email": "mturleyd@tumblr.com",
+    "password": "GyLnCB8gNIp",
+    "role":"USER"
+}
+
+15
+{
+    "username": "kminchelle",
+    "email": "kminchelle@qq.com",
+    "password": "0lelplR",
+    "role":"USER"
+}
+
+16
+{
+    "username": "dpierrof",
+    "email": "dpierrof@vimeo.com",
+    "password": "Vru55Y4tufI4",
+    "role":"USER"
+}
+
+17
+{
+    "username": "vcholdcroftg",
+    "email": "vcholdcroftg@ucoz.com",
+    "password": "mSPzYZfR",
+    "role":"USER"
+}
+
+18
+{
+    "username": "sberminghamh",
+    "email": "sberminghamh@chron.com",
+    "password": "cAjfb8vg",
+    "role":"USER"
+}
+
+19
+{
+    "username": "bleveragei",
+    "email": "sberminghamh@chron.com",
+    "password": "UZGAiqPqWQHQ",
+    "role":"USER"
+}
+20
+{
+    "username": "aeatockj",
+    "email": "sberminghamh@chron.com",
+    "password": "szWAG6hc",
+    "role":"USER"
+}
+
+21
+{
+    "username": "ckensleyk",
+    "email": "sberminghamh@chron.com",
+    "password": "tq7kPXyf",
+    "role":"USER"
+}
+
+22
+{
+    "username": "froachel",
+    "email": "sberminghamh@chron.com",
+    "password": "rfVSKImC",
+    "role":"USER"
+}
+
+23
+{
+    "username": "beykelhofm",
+    "email": "sberminghamh@chron.com",
+    "password": "zQwaHTHbuZyr",
+    "role":"USER"
+}
+
+24
+{
+    "username": "brickeardn",
+    "email": "sberminghamh@chron.com",
+    "password": "bMQnPttV",
+    "role":"USER"
+}
+
+25
+{
+    "username": "dfundello",
+    "email": "sberminghamh@chron.com",
+    "password": "k9zgV68UKw8m",
+    "role":"USER"
+}
+
+26
+{
+    "username": "lgronaverp",
+    "email": "sberminghamh@chron.com",
+    "password": "4a1dAKDv9KB9",
+    "role":"USER"
+}
+
+27
+{
+    "username": "fokillq",
+    "email": "sberminghamh@chron.com",
+    "password": "xZnWSWnqH",
+    "role":"USER"
+}
+
+28
+{
+    "username": "xisherwoodr",
+    "email": "sberminghamh@chron.com",
+    "password": "HLDqN5vCF",
+    "role":"USER"
+}
+
+29
+{
+    "username": "jissetts",
+    "email": "sberminghamh@chron.com",
+    "password": "ePawWgrnZR8L",
+    "role":"USER"
+}
+
+30
+{
+    "username": "kdulyt",
+    "email": "sberminghamh@chron.com",
+    "password": "5t6q4KC7O",
+    "role":"USER"
+}
